@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 References:
+https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md
 https://github.com/tandpfun/skill-icons/blob/main/readme.md
 https://github.com/anuraghazra/github-readme-stats
 -->
@@ -22,7 +23,7 @@ https://github.com/anuraghazra/github-readme-stats
 <h3 align="center">Pleasant to Listen to. Accurate to Read through. Clever to Write down. Easy to Speak about.</h3>
 
 - 🔭 I'm currently a M.S.E. in Robotics student at **Johns Hopkins University major in Robotics**
-     Earned
+     - Earned
 
 - 📫 Reached out to me at **iousc26@gmail.com**
 
