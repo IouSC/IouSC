@@ -35,4 +35,4 @@ Here are some ideas to get you started:
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=IouSC&show_icons=true&locale=en&layout=compact" alt="IouSC" /></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IouSC&layout=compact)] alt="IouSC" (https://github.com/IouSC/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IouSC&langs_count=8&layout=compact)](https://github.com/IouSC/github-readme-stats)
