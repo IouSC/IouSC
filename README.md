@@ -22,8 +22,8 @@ https://github.com/anuraghazra/github-readme-stats
 <h1 align="center">Hi there 👋, I'm Iou-Sheng (Danny) Chang</h1>
 <h3 align="center">Pleasant to Listen to. Accurate to Read through. Clever to Write down. Easy to Speak about.</h3>
 
-- 🔭 I'm currently a M.S.E. in Robotics student at **Johns Hopkins University major in Robotics**
-     - Earned
+- 🔭 I'm currently a M.S.E. in Robotics student at **Johns Hopkins University**
+     - B.S. in Electrical Engineering at **University of California - Los Angeles**
 
 - 📫 Reached out to me at **iousc26@gmail.com**
 
