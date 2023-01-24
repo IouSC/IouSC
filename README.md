@@ -27,7 +27,7 @@ https://github.com/anuraghazra/github-readme-stats
 
 - 📫 Reached out to me at **iousc26@gmail.com**
 
-- 📄 Know more about my experiences at [resume](https://github.com/IouSC/resume/blob/master/resume_latex.pdf)
+- 📄 Know more about my experiences at [resume](https://github.com/IouSC/resume/blob/master/[IouSheng_Chang]_Resume_202301.pdf)
 
 <h3 align="left">🌱 Connect with me:</h3>
 <p align="left">
